@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HiPizzas</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="hello">Login</string>
+    <string name="app_name">Hi Pizzas</string>
+    <string name="u">Usúario</string>
+    <string name="l">Login</string>
+    <string name="r">Cadastro</string>
+    <string name="p">......</string>
 
 </resources>
