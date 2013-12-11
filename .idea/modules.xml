@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HiPizzas/HiPizzas.iml" filepath="$PROJECT_DIR$/HiPizzas/HiPizzas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiPizzasProject.iml" filepath="$PROJECT_DIR$/HiPizzasProject.iml" />
+    </modules>
+  </component>
+</project>
+
